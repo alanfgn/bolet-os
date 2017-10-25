@@ -23,7 +23,7 @@ public class JPAConfiguration {
 	private String url = "jdbc:mysql://localhost:3306/boletos";
 
 	private String username = "boletos";
-	private String password = "boleto";
+	private String password = "boletos";
 	
 	private String dialect = "org.hibernate.dialect.MySQL5Dialect"; 	
 
