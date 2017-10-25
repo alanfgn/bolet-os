@@ -20,7 +20,9 @@ Subir o Projeto no Tomcat 8.5
 ## Tecnologias
 
 Spring MVC
+
 Spring ORM
+
 Hibernate
 
 
